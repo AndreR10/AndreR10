@@ -15,12 +15,12 @@
 
 <details>
 	
-<summary>🛠 ### Skills</summary>
+<summary>🛠 <h3>Skills</h3></summary>
 
 	
 <details>
 	
-<summary>🎛️ #### OS</summary>
+<summary>🎛️ OS</summary>
 
 <div>
 
