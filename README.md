@@ -18,7 +18,7 @@
 <summary>🛠 <h3>Skills</h3></summary>
 
 	
-### 🎛️ OS
+#### 🎛️ OS
 
 <div>
 
@@ -31,7 +31,7 @@
 	
 
 
-### 📋 Languages
+#### 📋 Languages
 
 <div>
 
@@ -42,7 +42,7 @@
 
 </div>  
 
-### 📚 Frameworks, Platforms and Libraries
+#### 📚 Frameworks, Platforms and Libraries
 
 <div>
 
@@ -56,7 +56,7 @@
 
 </div>
 
-### 💻 IDE's
+#### 💻 IDE's
 
 <div>
 
@@ -66,7 +66,7 @@
 
 </div> 
 
-### 🖥️ ML/DL
+#### 🖥️ ML/DL
 
 <div>
 
@@ -78,7 +78,7 @@
 
 </div>
 
-### 💾 Databases
+#### 💾 Databases
 
 <div>
 
