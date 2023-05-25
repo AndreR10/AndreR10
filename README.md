@@ -15,7 +15,7 @@
 
 <details>
 	
-<summary>🛠 Skills<summary>
+<summary>🛠 Skills</summary>
 	
 <details>
 	
