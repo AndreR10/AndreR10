@@ -20,7 +20,7 @@
 	
 <details>
 	
-<summary>🎛️ OS</summary>
+<summary>🎛️ <h4>OS</h4></summary>
 
 <div>
 
