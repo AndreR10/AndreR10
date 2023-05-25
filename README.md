@@ -19,7 +19,7 @@
 	
 <details>
 	
-	<summary>🎛️ OS</summary>
+<summary>🎛️ OS</summary>
 
 <div>
 
