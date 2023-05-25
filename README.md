@@ -18,9 +18,7 @@
 <summary>🛠 <h3>Skills</h3></summary>
 
 	
-<details>
-	
-<summary>🎛️ <h4>OS</h4></summary>
+### 🎛️ OS
 
 <div>
 
@@ -31,7 +29,7 @@
 
 </div>
 	
-</details>
+
 
 ### 📋 Languages
 
