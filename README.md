@@ -16,8 +16,10 @@
 <details>
 	
 <summary>🛠 Skills<summary>
-
-### 🎛️ OS
+	
+<details>
+	
+	<summary>🎛️ OS</summary>
 
 <div>
 
@@ -27,6 +29,8 @@
   [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/)
 
 </div>
+	
+</details>
 
 ### 📋 Languages
 
