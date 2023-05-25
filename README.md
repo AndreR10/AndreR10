@@ -15,8 +15,8 @@
 
 <details>
 	
-<summary>🛠 <h3>Skills</h3></summary>
-
+<summary><h3>🛠 Skills</h3></summary>
+<br/>
 	
 #### 🎛️ OS
 
