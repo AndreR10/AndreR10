@@ -1,6 +1,7 @@
 
 # Hi, I'm André Ramos! 👋
 
+A passionate and dedicated developer with a strong academic background in programming languages like Python, Java, PHP, and JavaScript. While I may not have any professional working experience yet, my extensive knowledge and hands-on experience gained through academic projects have provided me with a solid foundation in software development process. 
 
 
 ### 🔗 Find me on...
